@@ -3,7 +3,42 @@ guid: 94324ea8617e0dd48ac89d526c979334
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: f37872eb7de264f4b949fa041c03f920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extras
+    second: {fileID: 2100000, guid: f8d897386bf8374409470ba8ea13bb03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: d8a50260559cb1b46bdc66ec82103d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palm
+    second: {fileID: 2100000, guid: a427ce39544a8ad4b9e14bc5faedb076, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: 8dd6ac0b2fef58446a71d93987573f31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: 8fe88c0f4d5873c41ae0613ae55983c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallStones
+    second: {fileID: 2100000, guid: 609cf3bbeda034e4ba62b97420147e7a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
