@@ -299,12 +299,7 @@ MonoBehaviour:
   - Section: papers
     Localizations:
     - Key: example
-      Text: 'This is an example text for a paper to demonstrate the examination system.
-        You can display the text on the paper using a texture or rewrite the text
-        as paper examination text.
-
-
-        - From Patrick'
+      Text: The poem will be here
     - Key: crafting.ammo
       Text: '9MM PISTOL AMMO
 
