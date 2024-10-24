@@ -321,7 +321,7 @@ MeshRenderer:
   m_RenderingLayerMask: 4294967293
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ad3c6d6781ebe0d49a315d40f4eafeec, type: 2}
+  - {fileID: 2100000, guid: 0cfbe333d51d238438065ab9797001c9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -403,7 +403,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 0, y: 1, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 49.18663, y: 1.1607865, z: 46.051453}
+  m_ConnectedAnchor: {x: -0.5040451, y: 1.1607865, z: 0.115492776}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -456,7 +456,14 @@ MonoBehaviour:
   unlockScript: {fileID: 0}
   keepUnlockItem: 0
   unlockItem:
-    GUID: 
+    m_GUID: 
+    m_Item:
+      Name: 
+      GUID: 
+      Icon: {fileID: 0}
+    m_Section:
+      Name: 
+      GUID: 
   showLockedText: 0
   lockedText:
     GlocText: 
@@ -953,7 +960,7 @@ MeshRenderer:
   m_RenderingLayerMask: 4294967293
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ad3c6d6781ebe0d49a315d40f4eafeec, type: 2}
+  - {fileID: 2100000, guid: 0cfbe333d51d238438065ab9797001c9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
