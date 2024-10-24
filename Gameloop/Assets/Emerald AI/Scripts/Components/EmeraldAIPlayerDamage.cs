@@ -1,4 +1,4 @@
-﻿using System.Collections;
+﻿/*using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using EmeraldAI.Example;
@@ -45,7 +45,7 @@ namespace EmeraldAI
             }
         }
         */
-
+/*
         void DamageUHFPSPlayer(int DamageAmount, Transform Target)
         {
             if(TryGetComponent(out PlayerHealth playerHealth) && !playerHealth.IsDead)
@@ -55,4 +55,4 @@ namespace EmeraldAI
             }
         }
     }
-}
+}*/

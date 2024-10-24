@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 using UHFPS.Runtime;
 using Newtonsoft.Json.Linq;
 using ThunderWire.Attributes;
@@ -49,4 +49,4 @@ namespace UHFPS.Integrations.EmeraldAI
             };
         }
     }
-}
+}*/
