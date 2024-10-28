@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Flesh
+  - TouchField
+  - MobileJoystick
+  - door
   layers:
   - Default
   - TransparentFX
